@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/africaravest/Plan_Ramas/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/africaravest/Plan_Ramas/_build/latest?definitionId=3&branchName=refs%2Fpull%2F2%2Fmerge)
 
 # Contributing
 
@@ -29,3 +30,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
